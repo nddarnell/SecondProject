@@ -1,2 +1,2 @@
-# SecondProject
-My Second project leaning Git
+# Second Project
+My Second project learning Git. Hello Everyone!
